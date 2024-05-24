@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "usart1.h": "c",
+        "usart3.h": "c"
+    },
+    "files.encoding": "gb18030"
+}
