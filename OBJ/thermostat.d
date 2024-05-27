@@ -1,7 +1,7 @@
 ..\obj\thermostat.o: ..\HARDWARE\scr\Thermostat.c
 ..\obj\thermostat.o: ..\CORE\stm32f10x.h
 ..\obj\thermostat.o: ..\CORE\core_cm3.h
-..\obj\thermostat.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\thermostat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\thermostat.o: ..\CORE\system_stm32f10x.h
 ..\obj\thermostat.o: ..\CORE\stm32f10x_conf.h
 ..\obj\thermostat.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -32,12 +32,12 @@
 ..\obj\thermostat.o: ..\HARDWARE\inc\delay.h
 ..\obj\thermostat.o: ..\SYS\sys.h
 ..\obj\thermostat.o: ..\HARDWARE\inc\usart3.h
-..\obj\thermostat.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\thermostat.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\thermostat.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\thermostat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\thermostat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\thermostat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\thermostat.o: ..\HARDWARE\inc\switch.h
 ..\obj\thermostat.o: ..\FreeRTOS\include\FreeRTOS.h
-..\obj\thermostat.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\thermostat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\thermostat.o: ..\FreeRTOS\include\FreeRTOSConfig.h
 ..\obj\thermostat.o: ..\HARDWARE\inc\usart1.h
 ..\obj\thermostat.o: ..\FreeRTOS\include\projdefs.h

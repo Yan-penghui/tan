@@ -339,7 +339,7 @@ void heating(u8 run_p_num,u8 all_p_num,float starttem,float endtem,u16 time)
 					
 	}
 	j=0;
-	while(abs(PVTem-endtem)>3 && endtem!=0){		
+	while(abs(PVTem-(int)endtem)>3 && endtem!=0){		
 		Send_Thermostat('r',0x4a,0);              	//4a-PV£º²âÁ¿ÎÂ¶È
 		j=j+1;
 		delay_ms(1000);

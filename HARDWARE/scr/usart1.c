@@ -98,7 +98,7 @@ void USART1_IRQHandler(void)
 {   
 	u8 Usart1_RxBuff[140]; //定义一个数组，用于保存串口1接收到的数据 
 	
-	int i;
+	
 	if(USART_GetITStatus(USART1, USART_IT_RXNE) != RESET)        	 //如果USART_IT_RXNE标志置位，表示有数据到了，进入if分支	   
 	{   
 		Usart1_RxBuff[Usart1_RxCounter] = USART1->DR;				//把接收到的数据保存到Usart1_RxBuff中

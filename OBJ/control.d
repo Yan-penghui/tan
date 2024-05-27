@@ -1,7 +1,7 @@
 ..\obj\control.o: ..\HARDWARE\scr\control.c
 ..\obj\control.o: ..\CORE\stm32f10x.h
 ..\obj\control.o: ..\CORE\core_cm3.h
-..\obj\control.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\control.o: ..\CORE\system_stm32f10x.h
 ..\obj\control.o: ..\CORE\stm32f10x_conf.h
 ..\obj\control.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -30,12 +30,12 @@
 ..\obj\control.o: ..\STLIB\inc\misc.h
 ..\obj\control.o: ..\HARDWARE\inc\control.h
 ..\obj\control.o: ..\HARDWARE\inc\usart1.h
-..\obj\control.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\control.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\control.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\control.o: ..\HARDWARE\inc\mqtt.h
 ..\obj\control.o: ..\FreeRTOS\include\FreeRTOS.h
-..\obj\control.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\control.o: ..\FreeRTOS\include\FreeRTOSConfig.h
 ..\obj\control.o: ..\SYS\sys.h
 ..\obj\control.o: ..\FreeRTOS\include\projdefs.h

@@ -2,7 +2,7 @@
 ..\obj\main.o: ..\SYS\sys.h
 ..\obj\main.o: ..\CORE\stm32f10x.h
 ..\obj\main.o: ..\CORE\core_cm3.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\main.o: ..\CORE\system_stm32f10x.h
 ..\obj\main.o: ..\CORE\stm32f10x_conf.h
 ..\obj\main.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -31,16 +31,16 @@
 ..\obj\main.o: ..\STLIB\inc\misc.h
 ..\obj\main.o: ..\HARDWARE\inc\delay.h
 ..\obj\main.o: ..\HARDWARE\inc\usart1.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\main.o: ..\HARDWARE\inc\usart2.h
 ..\obj\main.o: ..\HARDWARE\inc\usart3.h
 ..\obj\main.o: ..\HARDWARE\inc\uart4.h
 ..\obj\main.o: ..\HARDWARE\inc\timer3.h
 ..\obj\main.o: ..\HARDWARE\inc\timer4.h
 ..\obj\main.o: ..\FreeRTOS\include\FreeRTOS.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\main.o: ..\FreeRTOS\include\FreeRTOSConfig.h
 ..\obj\main.o: ..\FreeRTOS\include\projdefs.h
 ..\obj\main.o: ..\FreeRTOS\include\portable.h
@@ -59,5 +59,5 @@
 ..\obj\main.o: ..\HARDWARE\inc\control.h
 ..\obj\main.o: ..\HARDWARE\inc\switch.h
 ..\obj\main.o: ..\HARDWARE\inc\AHT20.h
-..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\main.o: ..\HARDWARE\inc\door.h
