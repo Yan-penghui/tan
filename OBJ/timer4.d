@@ -1,7 +1,7 @@
 ..\obj\timer4.o: ..\HARDWARE\scr\timer4.c
 ..\obj\timer4.o: ..\CORE\stm32f10x.h
 ..\obj\timer4.o: ..\CORE\core_cm3.h
-..\obj\timer4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\timer4.o: ..\CORE\system_stm32f10x.h
 ..\obj\timer4.o: ..\CORE\stm32f10x_conf.h
 ..\obj\timer4.o: ..\STLIB\inc\stm32f10x_adc.h

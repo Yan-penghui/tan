@@ -36,7 +36,7 @@ void _sys_exit(int x)
 //重定义fputc函数 
 int fputc(int ch, FILE *f)
 {      
-	while((USART1->SR&0X40) == 0){};//循环发送,直到发送完毕   
+	while((USART1->SR&0X40) == 0);//循环发送,直到发送完毕   
     USART1->DR = (u8)ch;      
 	return ch;
 }
@@ -98,6 +98,7 @@ void USART1_IRQHandler(void)
 {   
 	u8 Usart1_RxBuff[140]; //定义一个数组，用于保存串口1接收到的数据 
 	
+	int i;
 	if(USART_GetITStatus(USART1, USART_IT_RXNE) != RESET)        	 //如果USART_IT_RXNE标志置位，表示有数据到了，进入if分支	   
 	{   
 		Usart1_RxBuff[Usart1_RxCounter] = USART1->DR;				//把接收到的数据保存到Usart1_RxBuff中

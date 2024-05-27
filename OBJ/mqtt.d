@@ -1,7 +1,7 @@
 ..\obj\mqtt.o: ..\HARDWARE\scr\mqtt.c
 ..\obj\mqtt.o: ..\CORE\stm32f10x.h
 ..\obj\mqtt.o: ..\CORE\core_cm3.h
-..\obj\mqtt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mqtt.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\mqtt.o: ..\CORE\system_stm32f10x.h
 ..\obj\mqtt.o: ..\CORE\stm32f10x_conf.h
 ..\obj\mqtt.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -29,9 +29,9 @@
 ..\obj\mqtt.o: ..\STLIB\inc\stm32f10x_wwdg.h
 ..\obj\mqtt.o: ..\STLIB\inc\misc.h
 ..\obj\mqtt.o: ..\HARDWARE\inc\mqtt.h
-..\obj\mqtt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\mqtt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mqtt.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\mqtt.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\mqtt.o: ..\HARDWARE\inc\usart1.h
-..\obj\mqtt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\mqtt.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
 ..\obj\mqtt.o: ..\HARDWARE\inc\wifi.h
 ..\obj\mqtt.o: ..\HARDWARE\inc\uart4.h

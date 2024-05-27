@@ -1,7 +1,7 @@
 ..\obj\port.o: ..\FreeRTOS\portable\RVDS\ARM_CM3\port.c
 ..\obj\port.o: ..\FreeRTOS\include\FreeRTOS.h
-..\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-..\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\port.o: ..\FreeRTOS\include\FreeRTOSConfig.h
 ..\obj\port.o: ..\SYS\sys.h
 ..\obj\port.o: ..\CORE\stm32f10x.h
@@ -33,9 +33,9 @@
 ..\obj\port.o: ..\STLIB\inc\stm32f10x_wwdg.h
 ..\obj\port.o: ..\STLIB\inc\misc.h
 ..\obj\port.o: ..\HARDWARE\inc\usart1.h
-..\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\port.o: ..\FreeRTOS\include\projdefs.h
 ..\obj\port.o: ..\FreeRTOS\include\portable.h
 ..\obj\port.o: ..\FreeRTOS\include\deprecated_definitions.h

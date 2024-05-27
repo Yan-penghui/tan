@@ -1,7 +1,7 @@
 ..\obj\usart1.o: ..\HARDWARE\scr\usart1.c
 ..\obj\usart1.o: ..\CORE\stm32f10x.h
 ..\obj\usart1.o: ..\CORE\core_cm3.h
-..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usart1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\usart1.o: ..\CORE\system_stm32f10x.h
 ..\obj\usart1.o: ..\CORE\stm32f10x_conf.h
 ..\obj\usart1.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -29,11 +29,11 @@
 ..\obj\usart1.o: ..\STLIB\inc\stm32f10x_wwdg.h
 ..\obj\usart1.o: ..\STLIB\inc\misc.h
 ..\obj\usart1.o: ..\HARDWARE\inc\usart1.h
-..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\usart1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\usart1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\usart1.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\usart1.o: ..\FreeRTOS\include\FreeRTOS.h
-..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\usart1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\usart1.o: ..\FreeRTOS\include\FreeRTOSConfig.h
 ..\obj\usart1.o: ..\SYS\sys.h
 ..\obj\usart1.o: ..\FreeRTOS\include\projdefs.h

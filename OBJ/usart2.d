@@ -1,7 +1,7 @@
 ..\obj\usart2.o: ..\HARDWARE\scr\usart2.c
 ..\obj\usart2.o: ..\CORE\stm32f10x.h
 ..\obj\usart2.o: ..\CORE\core_cm3.h
-..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usart2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\usart2.o: ..\CORE\system_stm32f10x.h
 ..\obj\usart2.o: ..\CORE\stm32f10x_conf.h
 ..\obj\usart2.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -29,6 +29,6 @@
 ..\obj\usart2.o: ..\STLIB\inc\stm32f10x_wwdg.h
 ..\obj\usart2.o: ..\STLIB\inc\misc.h
 ..\obj\usart2.o: ..\HARDWARE\inc\usart2.h
-..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\usart2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\usart2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\usart2.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h

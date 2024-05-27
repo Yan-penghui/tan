@@ -1,7 +1,7 @@
 ..\obj\aht20.o: ..\HARDWARE\scr\AHT20.c
 ..\obj\aht20.o: ..\CORE\stm32f10x.h
 ..\obj\aht20.o: ..\CORE\core_cm3.h
-..\obj\aht20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\aht20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\aht20.o: ..\CORE\system_stm32f10x.h
 ..\obj\aht20.o: ..\CORE\stm32f10x_conf.h
 ..\obj\aht20.o: ..\STLIB\inc\stm32f10x_adc.h
@@ -30,8 +30,8 @@
 ..\obj\aht20.o: ..\STLIB\inc\misc.h
 ..\obj\aht20.o: ..\HARDWARE\inc\AHT20.h
 ..\obj\aht20.o: ..\HARDWARE\inc\usart1.h
-..\obj\aht20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\aht20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\aht20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\aht20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\aht20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\aht20.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\aht20.o: ..\HARDWARE\inc\delay.h
 ..\obj\aht20.o: ..\SYS\sys.h
